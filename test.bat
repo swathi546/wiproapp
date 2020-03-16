@@ -1,1 +1,1 @@
-echo "this my first script"
+echo "this my first script";
